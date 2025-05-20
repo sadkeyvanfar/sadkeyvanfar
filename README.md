@@ -34,7 +34,9 @@ Here are a few projects I'm proud of:
 
 ## 📫 Connect With Me
 
-- GitHub: [sadkeyvanfar](https://www.linkedin.com/in/saeid-keyvanfar-6b2709b7)
+- Linkdin: [sadkeyvanfar](https://www.linkedin.com/in/saeid-keyvanfar-6b2709b7)
+- GitHub: [sadkeyvanfar](https://github.com/sadkeyvanfar)
+- Portfolio: [My Portfolio](https://sadkeyvanfar.github.io)
 - Dev.to: [@sadkeyvanfar](https://dev.to/sadkeyvnafar)
 - Email: sad.keyvanfar@gmail.com
 
